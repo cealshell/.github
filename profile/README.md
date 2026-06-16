@@ -9,7 +9,7 @@ external toolchains like Rojo, Wally, or Pesde.
 
 ---
 
-the frontend stays private for now, but the backend will be open-sourced soon.
+everything except for the website is open-source.
 
 if you use this project as a base for your own work, please credit it and respect the MIT license.
 for questions or issues, DM me on github or discord (@\_jxnis_).
